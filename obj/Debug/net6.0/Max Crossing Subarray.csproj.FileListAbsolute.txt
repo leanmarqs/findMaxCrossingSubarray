@@ -1,0 +1,15 @@
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\Max Crossing Subarray.csproj.AssemblyReference.cache
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\Max Crossing Subarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\Max Crossing Subarray.AssemblyInfoInputs.cache
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\Max Crossing Subarray.AssemblyInfo.cs
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\Max Crossing Subarray.csproj.CoreCompileInputs.cache
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\bin\Debug\net6.0\Max Crossing Subarray.exe
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\bin\Debug\net6.0\Max Crossing Subarray.deps.json
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\bin\Debug\net6.0\Max Crossing Subarray.runtimeconfig.json
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\bin\Debug\net6.0\Max Crossing Subarray.dll
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\bin\Debug\net6.0\Max Crossing Subarray.pdb
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\Max Crossing Subarray.dll
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\refint\Max Crossing Subarray.dll
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\Max Crossing Subarray.pdb
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\Max Crossing Subarray.genruntimeconfig.cache
+C:\Users\D2016010679\source\repos\Max Crossing Subarray\obj\Debug\net6.0\ref\Max Crossing Subarray.dll
